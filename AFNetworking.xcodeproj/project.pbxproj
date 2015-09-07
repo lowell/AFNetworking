@@ -48,7 +48,6 @@
 
 /* Begin PBXFileReference section */
 		36E2E58A1B9D867100FE7509 /* AFNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AFNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		36E2E58F1B9D867100FE7509 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = AFNetworking/Info.plist; sourceTree = "<group>"; };
 		36E2E5951B9D86CD00FE7509 /* AFHTTPRequestOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPRequestOperation.h; sourceTree = "<group>"; };
 		36E2E5961B9D86CD00FE7509 /* AFHTTPRequestOperationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPRequestOperationManager.h; sourceTree = "<group>"; };
 		36E2E5971B9D86CD00FE7509 /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPSessionManager.h; sourceTree = "<group>"; };
@@ -187,7 +186,6 @@
 		36E2E5E21B9D871900FE7509 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				36E2E58F1B9D867100FE7509 /* Info.plist */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
