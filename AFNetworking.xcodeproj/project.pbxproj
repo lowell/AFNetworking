@@ -7,16 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		36E2E5A81B9D86CD00FE7509 /* AFHTTPRequestOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5951B9D86CD00FE7509 /* AFHTTPRequestOperation.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5A91B9D86CD00FE7509 /* AFHTTPRequestOperationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5961B9D86CD00FE7509 /* AFHTTPRequestOperationManager.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5AA1B9D86CD00FE7509 /* AFHTTPSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5971B9D86CD00FE7509 /* AFHTTPSessionManager.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5AB1B9D86CD00FE7509 /* AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5981B9D86CD00FE7509 /* AFNetworking.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5AC1B9D86CD00FE7509 /* AFNetworkReachabilityManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5991B9D86CD00FE7509 /* AFNetworkReachabilityManager.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5AD1B9D86CD00FE7509 /* AFSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E59A1B9D86CD00FE7509 /* AFSecurityPolicy.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5AE1B9D86CD00FE7509 /* AFURLConnectionOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E59B1B9D86CD00FE7509 /* AFURLConnectionOperation.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5AF1B9D86CD00FE7509 /* AFURLRequestSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E59C1B9D86CD00FE7509 /* AFURLRequestSerialization.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5B01B9D86CD00FE7509 /* AFURLResponseSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E59D1B9D86CD00FE7509 /* AFURLResponseSerialization.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5B11B9D86CD00FE7509 /* AFURLSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E59E1B9D86CD00FE7509 /* AFURLSessionManager.h */; settings = {ASSET_TAGS = (); }; };
+		36E2E5A81B9D86CD00FE7509 /* AFHTTPRequestOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5951B9D86CD00FE7509 /* AFHTTPRequestOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5A91B9D86CD00FE7509 /* AFHTTPRequestOperationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5961B9D86CD00FE7509 /* AFHTTPRequestOperationManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5AA1B9D86CD00FE7509 /* AFHTTPSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5971B9D86CD00FE7509 /* AFHTTPSessionManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5AB1B9D86CD00FE7509 /* AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5981B9D86CD00FE7509 /* AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5AC1B9D86CD00FE7509 /* AFNetworkReachabilityManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5991B9D86CD00FE7509 /* AFNetworkReachabilityManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5AD1B9D86CD00FE7509 /* AFSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E59A1B9D86CD00FE7509 /* AFSecurityPolicy.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5AE1B9D86CD00FE7509 /* AFURLConnectionOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E59B1B9D86CD00FE7509 /* AFURLConnectionOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5AF1B9D86CD00FE7509 /* AFURLRequestSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E59C1B9D86CD00FE7509 /* AFURLRequestSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5B01B9D86CD00FE7509 /* AFURLResponseSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E59D1B9D86CD00FE7509 /* AFURLResponseSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5B11B9D86CD00FE7509 /* AFURLSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E59E1B9D86CD00FE7509 /* AFURLSessionManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		36E2E5B21B9D86CD00FE7509 /* AFHTTPRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E2E59F1B9D86CD00FE7509 /* AFHTTPRequestOperation.m */; settings = {ASSET_TAGS = (); }; };
 		36E2E5B31B9D86CD00FE7509 /* AFHTTPRequestOperationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E2E5A01B9D86CD00FE7509 /* AFHTTPRequestOperationManager.m */; settings = {ASSET_TAGS = (); }; };
 		36E2E5B41B9D86CD00FE7509 /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E2E5A11B9D86CD00FE7509 /* AFHTTPSessionManager.m */; settings = {ASSET_TAGS = (); }; };
@@ -26,16 +26,16 @@
 		36E2E5B81B9D86CD00FE7509 /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E2E5A51B9D86CD00FE7509 /* AFURLRequestSerialization.m */; settings = {ASSET_TAGS = (); }; };
 		36E2E5B91B9D86CD00FE7509 /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E2E5A61B9D86CD00FE7509 /* AFURLResponseSerialization.m */; settings = {ASSET_TAGS = (); }; };
 		36E2E5BA1B9D86CD00FE7509 /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E2E5A71B9D86CD00FE7509 /* AFURLSessionManager.m */; settings = {ASSET_TAGS = (); }; };
-		36E2E5CD1B9D86DA00FE7509 /* AFNetworkActivityIndicatorManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5BB1B9D86DA00FE7509 /* AFNetworkActivityIndicatorManager.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5CE1B9D86DA00FE7509 /* UIActivityIndicatorView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5BC1B9D86DA00FE7509 /* UIActivityIndicatorView+AFNetworking.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5CF1B9D86DA00FE7509 /* UIAlertView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5BD1B9D86DA00FE7509 /* UIAlertView+AFNetworking.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5D01B9D86DA00FE7509 /* UIButton+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5BE1B9D86DA00FE7509 /* UIButton+AFNetworking.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5D11B9D86DA00FE7509 /* UIImage+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5BF1B9D86DA00FE7509 /* UIImage+AFNetworking.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5D21B9D86DA00FE7509 /* UIImageView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5C01B9D86DA00FE7509 /* UIImageView+AFNetworking.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5D31B9D86DA00FE7509 /* UIKit+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5C11B9D86DA00FE7509 /* UIKit+AFNetworking.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5D41B9D86DA00FE7509 /* UIProgressView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5C21B9D86DA00FE7509 /* UIProgressView+AFNetworking.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5D51B9D86DA00FE7509 /* UIRefreshControl+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5C31B9D86DA00FE7509 /* UIRefreshControl+AFNetworking.h */; settings = {ASSET_TAGS = (); }; };
-		36E2E5D61B9D86DA00FE7509 /* UIWebView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5C41B9D86DA00FE7509 /* UIWebView+AFNetworking.h */; settings = {ASSET_TAGS = (); }; };
+		36E2E5CD1B9D86DA00FE7509 /* AFNetworkActivityIndicatorManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5BB1B9D86DA00FE7509 /* AFNetworkActivityIndicatorManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5CE1B9D86DA00FE7509 /* UIActivityIndicatorView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5BC1B9D86DA00FE7509 /* UIActivityIndicatorView+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5CF1B9D86DA00FE7509 /* UIAlertView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5BD1B9D86DA00FE7509 /* UIAlertView+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5D01B9D86DA00FE7509 /* UIButton+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5BE1B9D86DA00FE7509 /* UIButton+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5D11B9D86DA00FE7509 /* UIImage+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5BF1B9D86DA00FE7509 /* UIImage+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5D21B9D86DA00FE7509 /* UIImageView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5C01B9D86DA00FE7509 /* UIImageView+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5D31B9D86DA00FE7509 /* UIKit+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5C11B9D86DA00FE7509 /* UIKit+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5D41B9D86DA00FE7509 /* UIProgressView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5C21B9D86DA00FE7509 /* UIProgressView+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5D51B9D86DA00FE7509 /* UIRefreshControl+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5C31B9D86DA00FE7509 /* UIRefreshControl+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36E2E5D61B9D86DA00FE7509 /* UIWebView+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E2E5C41B9D86DA00FE7509 /* UIWebView+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		36E2E5D71B9D86DA00FE7509 /* AFNetworkActivityIndicatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E2E5C51B9D86DA00FE7509 /* AFNetworkActivityIndicatorManager.m */; settings = {ASSET_TAGS = (); }; };
 		36E2E5D81B9D86DA00FE7509 /* UIActivityIndicatorView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E2E5C61B9D86DA00FE7509 /* UIActivityIndicatorView+AFNetworking.m */; settings = {ASSET_TAGS = (); }; };
 		36E2E5D91B9D86DA00FE7509 /* UIAlertView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E2E5C71B9D86DA00FE7509 /* UIAlertView+AFNetworking.m */; settings = {ASSET_TAGS = (); }; };
